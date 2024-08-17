@@ -1,0 +1,7 @@
+body {
+    /* background: url("./egg.png"); */
+    background: url("./praise.png");
+    background-repeat: no-repeat;
+    /* background-position: right top; */
+    background-size: cover;
+}
